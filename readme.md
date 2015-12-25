@@ -1,7 +1,5 @@
-ptv-timetable-gtfs
-==================
-
-Converts the PTV Timetable JSON API to Google's GTFS format for map navigation potential
+PTV Public Timetable API GTFS Exporter
+==
 
 This is currently a work in progress
 
